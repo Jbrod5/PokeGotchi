@@ -5,6 +5,8 @@ En él podremos adoptar un conjunto de mascotas y cuidarlas de manera individual
 El juego está desarrollado en Java, usando la biblioteca gráfica Swing para la interfaz de usuario. Se recomienda usar Java 15 o superior.
 Como entorno de desarrollo se utilizó Kubuntu, IntelliJ IDEA y Amazon Coretto JDK 15.
 
+![alt text](https://drive.google.com/file/d/1199uoEjCyt3z0nps6vkXwHTCeJD40xZD/view?usp=sharing)
+
 ## MASCOTAS
 En la pestaña mascotas veremos a todas las mascotas que hayamos adoptadas. Esta pestaña posee diferentes pestañas, una para cada mascota.
 En la pestaña de cada mascota podremos atender sus necesidades así como consultar la información general de cada una de ellas.
