@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PokeGotchi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PokeGotchi_jar</output-path>
+    <root id="archive" name="PokeGotchi.jar">
+      <element id="module-output" name="PokeGotchi" />
+    </root>
+  </artifact>
+</component>
