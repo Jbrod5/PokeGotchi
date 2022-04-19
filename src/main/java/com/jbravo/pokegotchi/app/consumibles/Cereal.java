@@ -4,6 +4,6 @@ public class Cereal extends Comida{
 
     public Cereal(){
         super.aspecto = "/consumibles/Cereal.png";
-        super.comidasParaMorir = 5;
+        super.comidasParaMorir = 7;
     }
 }
